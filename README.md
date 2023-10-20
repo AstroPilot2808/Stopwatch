@@ -2,6 +2,8 @@
 # Stopwatch
 
 Simple Stopwatch- First React App
+
+Check it out: https://ajaysstopwatch.netlify.app/
 =======
 # Getting Started with Create React App
 
